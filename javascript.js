@@ -10,3 +10,9 @@ z=y+2
 console.log(z)
 
 if(x===5) console.log("yes")
+
+hello(){
+    console.log("eh!!")
+}
+
+hello()

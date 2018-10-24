@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    height: 10rem;
+}
+
+.sect{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
