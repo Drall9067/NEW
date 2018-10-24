@@ -16,3 +16,9 @@ hello(){
 }
 
 hello()
+
+document.getElementById('btn').click(()=>{
+    document.getElementById('ne').css({
+        'background-color':'red'
+    })
+})
